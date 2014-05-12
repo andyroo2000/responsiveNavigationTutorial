@@ -26,7 +26,7 @@ a {
 }
 
 .nav-logo {
-  color: f9f9f9;
+  color: #f9f9f9;
   float: left;
   display: block;
   padding: 20px 10px;
@@ -44,5 +44,9 @@ a {
 .nav-list li a {
   display: block;
   padding: 20px 10px;
-  color: f9f9f9;
+  color: #f9f9f9;
+}
+
+.nav-menu {
+  display: none;
 }
